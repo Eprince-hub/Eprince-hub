@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eprince-hub
 - 👀 I’m interested in ...Front-End Web development and UX designs.
-- 🌱 I’m currently learning ...HTML,CSS and JAVASCRIPT.
+- 🌱 I’m currently learning ..Foundational Computer Science Course from CS50.HTML,CSS and JAVASCRIPT and PYTHON.
 - 💞️ I’m looking to collaborate on ...Front-End projects and UX design projects.
 - 📫 How to reach me ...  Reach me on Facebook: https://www.facebook.com/Fluema-Digitals-103732201757156
 
