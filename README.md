@@ -9,6 +9,7 @@ A logical and results-driven Web Developer dedicated to building and optimizing 
 - 💞️ I’m open to collaborate on interesting web development projects, If you have any - git me up😉!.
 - 📫 How to reach me: contact me on [LinkedIn](https://www.linkedin.com/in/victor-ejike/)
 - 👀 Remember: The only impossible thing is what you never tried ✔.
+- 🕕 When I am not coding, I am being with family, lucky? can also catch me in the gym ⛹.
 
 ## Languages
 
