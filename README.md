@@ -8,8 +8,9 @@ A logical and results-driven Web Developer dedicated to building and optimizing 
 - 🌱 Recently became a **Web Developer** by learning techs like **JavaScript**, **HTML5/CSS3**, **React & Next.js** & other relevant tech stacks.
 - 💞️ I’m open to collaborate on interesting web development projects, If you have any - git me up😉!.
 - 📫 How to reach me: contact me on [LinkedIn](https://www.linkedin.com/in/victor-ejike/)
-- 👀 Remember: The only impossible thing is what you never tried ✔.
 - 🕕 When I am not coding, I am being with family, lucky? can also catch me in the gym ⛹.
+- 👀 Remember: The only impossible thing is what you never tried ✔.
+
 
 ## Languages
 
