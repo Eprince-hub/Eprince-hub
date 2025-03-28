@@ -5,7 +5,7 @@ Welcome to my GitHub
 I'm Victor, a Social Media Manager, Mobile and Web Developer based in Gmunden, Austria.
 A logical and results-driven Mobile/Web Developer dedicated to building and optimizing user-focused web and mobile applications for customers with various business objectives. Judicious and creative when crafting effective websites, apps, and platforms to propel competitive advantage and revenue growth. Technically proficient and a gifted problem solver with a calm and focused demeanor.
 
-- 🌱 Versed in **HTML5/CSS3**, **JavaScript**, **React/RN/Next.js**, **PostgreSQL** & other relevant tech stacks.
+- 🌱 Versed in **HTML5/CSS3**, **JavaScript/Node.js**, **React/RN/Next.js**, **PostgreSQL** & other relevant tech stacks.
 - 💞️ I’m open to collaborating on interesting web development projects. If you have any - git me up😉!.
 - 📫 How to reach me: contact me on [LinkedIn](https://www.linkedin.com/in/victor-ejike/)
 - 🕕 When I am not coding, I am being with family, lucky? can also catch me in the gym ⛹.
