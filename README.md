@@ -1,4 +1,4 @@
-# 👋 Hi, I am Victor Ejike
+# 👋 Hey, I am Victor Ejike
 
 Welcome to my GitHub profile!
 
